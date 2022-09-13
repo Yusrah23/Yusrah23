@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yusrah23
-- 👀 I’m interested in data 
-- 🌱 I’m currently learning SQL, Python
+- 👀 I’m a Data Analyst
+- 🌱 I've worked on projects with Excel, Powerbi, Sql and Python
 - 💞️ I’m looking to collaborate on anything data
-- 📫 How to reach me ...
+- 📫 You can reach me on yusrahtosin@gmail.com to discuss any of my projects
 
 <!---
 Yusrah23/Yusrah23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
