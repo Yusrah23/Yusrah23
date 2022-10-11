@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yusrah23
 - 👀 I’m a Data Analyst
-- 🌱 I've worked on projects with Excel, Powerbi, Sql and Python
+- 🌱 I've worked on projects with Python, Powerbi, Sql,R and MS Excel
 - 💞️ I’m looking to collaborate on anything data
 - 📫 You can reach me on yusrahtosin@gmail.com to discuss any of my projects
 
